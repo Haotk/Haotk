@@ -3,5 +3,5 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haotk&hide=java&theme=jolly" alt="haotk" /></p>
 
-<p><img alt="IMG" src="http://www.justinmaller.com/img/projects/thumbnail/THUMB__vt1q.jpg" width="400" height="225" /><p>
+<p><img align="right" alt="IMG" src="http://www.justinmaller.com/img/projects/thumbnail/THUMB__vt1q.jpg" width="400" height="225" /><p>
 </br>
