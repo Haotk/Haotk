@@ -5,7 +5,7 @@
 
 <p><img align="right" alt="IMG" src="http://www.justinmaller.com/img/projects/thumbnail/THUMB__vt1q.jpg" width="400" height="225" /><p>
 
-<h3>Languages & Tools
+<h3 align="left">Languages & Tools
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
     </a>
